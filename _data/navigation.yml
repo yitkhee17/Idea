@@ -1,6 +1,6 @@
 main:
   - title: "Quick-Start Guide"
-    url: /docs/test/
+    url: /test/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
@@ -19,4 +19,4 @@ docs:
   - title: Customization
     children:
       - title: "Configuration"
-        url: /docs/test/
+        url: /about/
