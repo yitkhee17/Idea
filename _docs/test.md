@@ -1,1 +1,4 @@
-Test
+---
+# permalink: /about/
+title: "Test"
+---
