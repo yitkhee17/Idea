@@ -80,7 +80,14 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/yiqi171717_"
-
+      
+header:
+  overlay_color: "#333"
+  overlay_filter: 0.5
+  image: /assets/images/image-filename.jpg or http://some-site.com/assets/images/image.jpg
+  actions:
+      - label: "More Info"
+        url: "https://unsplash.com"
 footer:
   links:
     - label: "GitHub"
