@@ -1,6 +1,6 @@
 main:
   - title: "Quick-Start Guide"
-    url: /docs/test/
+    url: /_posts/2010-03-07-post-link.md
   - title: "Posts"
     url: /posts/
   - title: "Categories"
