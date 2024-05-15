@@ -1,6 +1,6 @@
 main:
-  - title: "Quick-Start Guide"
-    url: /test/
+  # - title: "Quick-Start Guide"
+  #   url: /test/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
@@ -11,12 +11,12 @@ main:
     url: /about/
 
 # documentation links
-docs:
-  - title: Getting Started
-    children:
-      - title: "Quick-Start Guide"
-        url: /docs/test/
-  - title: Customization
-    children:
-      - title: "Configuration"
-        url: /about/
+# docs:
+#   - title: Getting Started
+#     children:
+#       - title: "Quick-Start Guide"
+#         url: /docs/test/
+#   - title: Customization
+#     children:
+#       - title: "Configuration"
+#         url: /about/
