@@ -1,5 +1,6 @@
 ---
 title: "Lesson 0: Intro"
+date: "2024-05-14"
 categories:
   - Blog
 tags:
