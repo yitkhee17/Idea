@@ -1,6 +1,6 @@
 ---
 title: "Word Embedding, Language Model and BLUE score"
-date: "2024-05-14"
+date: "2024-05-15"
 categories:
   - Blog
 tags:
