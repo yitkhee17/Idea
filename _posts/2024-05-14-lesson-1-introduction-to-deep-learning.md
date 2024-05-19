@@ -3,7 +3,6 @@ title: "Lesson 1: Introduction to Deep Learning"
 date: "2024-05-14"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
   - Lesson
 tags:
   - Basic
